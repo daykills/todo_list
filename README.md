@@ -21,11 +21,11 @@ Screenshot of Django ToDo App
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your_username/django-todo-app.git
+   git clone https://github.com/daykills/todo_list.git
 
 2. **Navigate to the project directory:**:
    ```bash
-   cd django-todo-app
+   cd todo_list
 
 3. **Set up a virtual environment:**:
    ```bash
