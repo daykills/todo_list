@@ -27,20 +27,7 @@ Screenshot of Django ToDo App
    ```bash
    cd todo_list
 
-3. **Set up a virtual environment:**:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
-4. **Install the requirements:**:
-   ```bash
-   pip install -r requirements.txt
-
-4. **Run migrations:**:
-   ```bash
-   python manage.py migrate
-
-5. **Start the server:**:
+3. **Start the server:**:
    ```bash
    python manage.py runserver
 
