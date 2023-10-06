@@ -14,8 +14,8 @@ Screenshot of Django ToDo App
 
 ### Prerequisites
 
-- Python 3.x
-- Django 3.x
+- Python 3.11
+- Django 4.2
 
 ### Installation
 
